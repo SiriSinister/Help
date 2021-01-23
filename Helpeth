@@ -62,15 +62,15 @@
 	
 	<body>
 		<header>
-				<nav>
-					<ul>
-						<li><a href="/pages/actualpages/roominterface.html"><button>Room Interface</button></a></li>
-						<li><a href=""><button></button></a></li>
-						<li><a href=""><button></button></a></li>
-						<li><a href="/pages/index.html"><button>Home</button></a></li>
+			<nav>
+				<ul>
+					<li><a href="/pages/actualpages/roominterface.html"><button>Room Interface</button></a></li>
+					<li><a href="#"><button>...</button></a></li>
+					<li><a href="#"><button>...</button></a></li>
+					<li><a href="/pages/index.html"><button>Home</button></a></li>
+				</ul>
+			</nav>
 		</header>
-				</nav>
-					</ul>
 	<section>
 		<div>A</div>
 		<div>B</div>
