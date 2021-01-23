@@ -1,0 +1,92 @@
+<html>
+		<body>
+		<title> First Website Part 2 </title>
+		<h1>Welcome to the Interface </h1>
+		<head>
+		<style>
+		
+		body {
+			background: rgb(58, 58, 58);
+			color: white;
+			font: Helvetica Neue, Helvetica, Arial, sans-serif;
+			padding: 20px;	
+}
+
+		h1{
+		color: red;
+		property: value;
+
+}
+		section { 
+				background: white;
+				background: gray;
+				padding: 20px;
+
+}
+
+		header { 
+				background: black;
+				padding: 20px;
+}
+
+
+		footer {
+				background: black;
+				padding: 10px 20px;
+}
+
+		button { 
+				border-radius: 25px;
+				background: rgb(118 123 130);
+				border; none;
+				color: white:
+}
+		div { 
+		background: red;
+		display: inline-block;
+		margin: 0px 100px 0px;
+		width: 100px;
+}
+		ul {
+			margin: 0;
+			padding: 0;
+			list-styletype: none;
+}
+
+		li { 
+			color: white;
+			display: inline-block;
+			margin: 20px;	
+}
+	</style>
+	
+	<body>
+		<header>
+				<nav>
+					<ul>
+						<li><a href="/pages/actualpages/roominterface.html"><button>Room Interface</button></a></li>
+						<li><a href=""><button></button></a></li>
+						<li><a href=""><button></button></a></li>
+						<li><a href="/pages/index.html"><button>Home</button></a></li>
+		</header>
+				</nav>
+					</ul>
+	<section>
+		<div>A</div>
+		<div>B</div>
+		<div>C</div>
+		<div>D</div>
+	</section>
+	
+	<section>
+		<section><a href="electronics page here"><button>Electronics</button></a></section>
+		<section><a href=""><button></button></a></section>
+		<section><a href=""><button></button></a></Footer>
+	
+	</section>
+	
+	<a href="https://www.google.com"><button>Google</button></a>
+	<a href="https://www.roblox.com"><button>Roblox</button></a>
+	
+	</body>
+</html>
